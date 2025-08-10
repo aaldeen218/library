@@ -1,5 +1,1 @@
-
-hi this me from file A  && this thime i am in File b 
-now we fix this confligt
-
-
+Alaa from File A
